@@ -1,0 +1,25 @@
+section {
+	width: 1500px;
+	margin: auto;
+	margin-top: 40px;
+	color: rgb(34, 34, 34);
+}
+
+button {
+	padding: 10px;
+	font-size: 12pt;
+	font-weight: bold;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-image: url('./imgs/2022-10-19\ 16_40_39-Window.png');
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: black;
+	color: white;
+}
+
+h2 {
+	font-size: 15pt;
+	font-family: Arial, Helvetica, sans-serif
+}
